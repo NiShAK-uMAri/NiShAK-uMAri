@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **knisha987650@gmail.com**
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences [Resume_Nisha.pdf](https://github.com/NiShAK-uMAri/NiShAK-uMAri/files/15091602/Resume_Nisha.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
