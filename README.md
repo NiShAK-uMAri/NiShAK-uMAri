@@ -10,9 +10,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NiShAK-uMAri](https://github.com/NiShAK-uMAri)
 
+- 📝 My Portfolio **https://timely-dolphin-066b41.netlify.app**
+
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **knisha987650@gmail.com**
+
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
