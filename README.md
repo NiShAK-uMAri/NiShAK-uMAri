@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nisha Kumari</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/629659591635448674/">
+![a girl on her d 0ca534b6-4f2f-41ba-bc53-0ac0b3fa9d99](https://github.com/NiShAK-uMAri/NiShAK-uMAri/assets/108484547/c1f433bd-0bf5-4426-9ccf-a803c576efd9)
 
 - 🔭 I’m currently working on **Vision Project**
 
