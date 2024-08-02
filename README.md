@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NiShAK-uMAri](https://github.com/NiShAK-uMAri)
 
-- 📝 My Portfolio **https://timely-dolphin-066b41.netlify.app**
+- 📝 My Portfolio **[https://timely-dolphin-066b41.netlify.app](https://66ac6ac09e097ed28bed7b67--glistening-douhua-f9118e.netlify.app/)**
 
 - 💬 Ask me about **anything**
 
